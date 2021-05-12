@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    width: 50%;
+    padding: 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+    background: #343a40;
+  }
+
+  .main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  
+  h1,h2,h3 {
+    letter-spacing: 1px;
+    text-align: center;
+    color: #e98208;
+  }
+  
+  span {
+    margin-bottom: 5px;
+  }
